@@ -1,0 +1,15 @@
+
+_
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8„† í».
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(¿ÙÌËüÿÿÿÿ
+€
+java:S1488#"^Immediately return this expression instead of assigning it to the temporary variable "result".(˜ÅÆşÿÿÿÿ8„† í».
+U
+java:S1128"3Remove this unused import 'common.utils.CommUtils'.(˜’Ûëşÿÿÿÿ8„† í».
+U
+java:S1128"8Remove this unused import 'common.entity.RestfulResult'.(ôÆë’8„† í».
+[
+java:S3752 ">Add a "method" parameter to this "@RequestMapping" annotation.(ªò³8„† í».
+`
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8„† í».

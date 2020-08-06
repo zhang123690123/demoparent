@@ -1,0 +1,9 @@
+
+°
+java:S1130$"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException' which is a subclass of 'java.io.IOException'.(ãôöÁşÿÿÿÿ8ïá‰È».
+«
+java:S1130)"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException' which is a subclass of 'java.io.IOException'.(Î¬‘ú8ïá‰È».
+V
+java:S1874*"9Remove this use of "StringEscapeUtils"; it is deprecated.(­¯¾³8ïá‰È».
+d
+java:S4275‰"FRefactor this getter so that it actually refers to the field "mapper".(øÿâÇ8ïá‰È».
