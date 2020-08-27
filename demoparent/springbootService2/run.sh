@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # 定义应用组名
-group_name='springbootService2'
+group_name='springbootservice2'
 # 定义应用名称
-app_name='springbootService2'
+app_name='springbootservice2'
 # 定义应用版本
 app_version='1.0-SNAPSHOT'
 # 定义应用环境
