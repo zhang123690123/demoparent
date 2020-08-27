@@ -7,7 +7,6 @@
     <groupId>com.sun</groupId>
     <artifactId>springbootService2</artifactId>
     <version>1.0-SNAPSHOT</version>
-<packaging>war</packaging>
     <parent>
         <groupId>com.smartcity</groupId>
         <artifactId>demoparent</artifactId>
@@ -23,11 +22,11 @@
 
 
     <dependencies>
-        <dependency>
+       <!-- <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
             <version>2.2.6.RELEASE</version>
-        </dependency>
+        </dependency>-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -74,6 +73,12 @@
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
             <version>2.2.2.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>3.0-alpha-1</version>
+            <scope>compile</scope>
         </dependency>
 
     </dependencies>
