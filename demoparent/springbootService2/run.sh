@@ -23,4 +23,4 @@ docker run -p 8088:8088 --name ${app_name} \
 -v /etc/localtime:/etc/localtime \
 -v /mydata/app/${app_name}/logs:/var/logs \
 -d ${group_name}/${app_name}:${app_version}
-echo '----start container----'
+echo '----start container-----'
