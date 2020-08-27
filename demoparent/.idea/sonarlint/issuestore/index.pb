@@ -53,3 +53,7 @@ q
 AspringbootEureka/src/main/java/sun/ConsumerClientApplication.java,7\8\78ea8e5b78c6cb244d1fb76434e516c490254e24
 r
 BspringbootZuul/src/main/java/sun/controller/ServiceController.java,0\a\0ae56441213e70d406c07f2c66dfca27eb2aa464
+]
+-springbootService2/src/main/docker/Dockerfile,f\2\f239bbc8f1446bd4d7846737a61ceee5b6a078de
+M
+springbootService2/src/run.sh,3\7\37de17fd42687637b4e96f3cfc0286a40f605bb2

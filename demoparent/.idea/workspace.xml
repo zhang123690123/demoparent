@@ -2,83 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54290d6f-662f-4b1a-9387-0bb5e2e3a3b9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/zhang123690123/demoparent&#10;&#10;# Conflicts:&#10;#&#9;demoparent/springbootEureka/pom.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springbootService2/src/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/SpringBootConsumerRibbon.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBootConsumerRibbon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/common/entity/RestfulResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/common/utils/CommUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/common/utils/JsonMapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/common/utils/JsonMapper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/common/utils/JsonMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/common/utils/JsonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/sun/controller/ServiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringBootConsumerRibbon/target/classes/sun/entity/ServiceInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demoparent.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConfig/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootConfig/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConfig/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConfig/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConfig/target/classes/sun/controller/ServiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConfig/target/classes/sun/entity/ServiceInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootConsumerFeign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/common/entity/RestfulResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/common/utils/CommUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/common/utils/JsonMapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/common/utils/JsonMapper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/common/utils/JsonMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/common/utils/JsonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/sun/client/ServiceFallback.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/sun/client/ServiceFeignClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/sun/controller/ServiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootConsumerFeign/target/classes/sun/entity/ServiceInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootEureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootEureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootEureka/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootEureka/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootService/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/bootstrap.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/common/entity/RestfulResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/common/utils/CommUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/common/utils/JsonMapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/common/utils/JsonMapper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/common/utils/JsonMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/common/utils/JsonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/sun/controller/ServiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService/target/classes/sun/entity/ServiceInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootService2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/common/entity/RestfulResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/common/utils/CommUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/common/utils/JsonMapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/common/utils/JsonMapper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/common/utils/JsonMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/common/utils/JsonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/sun/controller/ServiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/target/classes/sun/entity/ServiceInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springbootZuul/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/springbootZuul.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/common/entity/RestfulResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/common/utils/CommUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/common/utils/JsonMapper$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/common/utils/JsonMapper$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/common/utils/JsonMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/common/utils/JsonUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/sun/controller/ServiceController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/sun/entity/ServiceInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/sun/fallbackProvide/ServiceFallbackProvide$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/sun/fallbackProvide/ServiceFallbackProvide.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootZuul/target/classes/sun/filter/serviceFilter.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -153,31 +81,38 @@
     <session id="-1323670439">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.76" value="1" />
           <entry key="project.open.time.87" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="pom" value="2" />
-          <entry key="xml" value="10" />
+          <entry key="properties" value="1" />
+          <entry key="sh" value="1" />
+          <entry key="xml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="XML" value="12" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Dockerfile" value="8" />
           <entry key="xml" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Dockerfile" value="8" />
           <entry key="XML" value="67" />
         </counts>
       </usages-collector>
@@ -185,11 +120,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springbootEureka/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="575">
+              <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springbootService2/src/run.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springbootService2/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -250,6 +212,8 @@
         <option value="$PROJECT_DIR$/springbootService2/pom.xml" />
         <option value="$PROJECT_DIR$/springbootService/pom.xml" />
         <option value="$PROJECT_DIR$/springbootEureka/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootService2/src/run.sh" />
+        <option value="$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile" />
       </list>
     </option>
   </component>
@@ -296,6 +260,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,13 +271,33 @@
             <path>
               <item name="demoparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="demoparent" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootEureka" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootService2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoparent" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoparent" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demoparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="demoparent" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootService2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -327,7 +312,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/androidSdkLocation" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598511729109" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598514112437" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -335,7 +320,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -456,7 +441,9 @@
       <workItem from="1596608349830" duration="14337000" />
       <workItem from="1598253852587" duration="4492000" />
       <workItem from="1598324160140" duration="107000" />
-      <workItem from="1598510724814" duration="780000" />
+      <workItem from="1598510724814" duration="2559000" />
+      <workItem from="1598513522881" duration="608000" />
+      <workItem from="1598514176901" duration="928000" />
     </task>
     <servers />
   </component>
@@ -466,12 +453,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19716000" />
+    <option name="totallyTimeSpent" value="23031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26126608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26877683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -487,13 +475,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.04701835" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3295063" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.32912844" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.32912844" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -528,20 +517,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/zhang123690123/demoparent&#10;&#10;# Conflicts:&#10;#&#9;demoparent/springbootEureka/pom.xml" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/springbootService2/src/main/java/sun/ConsumerClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootConfig/src/main/java/sun/ConsumerClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springbootConsumerFeign/src/main/java/common/entity/RestfulResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -596,9 +571,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springbootService/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springbootService2/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/springbootEureka/src/main/resources/application.properties">
@@ -788,13 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbootService2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-200">
-          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springbootService/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -832,8 +797,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springbootEureka/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="575">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootService2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootService2/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootService2/src/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -843,10 +832,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>springbootService2:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
