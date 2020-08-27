@@ -9,10 +9,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.8.RELEASE</version>
-        <relativePath /> <!-- lookup parent from repository -->
+        <groupId>com.smartcity</groupId>
+        <artifactId>demoparent</artifactId>
+        <version>1.0-SNAPSHOT</version>
     </parent>
 
     <properties>
@@ -28,12 +27,14 @@
             <!-- 添加这个依赖之后就可以创建一个web应用程序。starter poms部分可以引入所有需要在实际项目中使用的依赖。
             spring-boot-starter-web依赖包含所有的spring-core, spring-web, spring-webmvc，嵌入的Tomcat server和其他web应用相关的库。 -->
             <artifactId>spring-boot-starter-web</artifactId>
+            <version>2.2.6.RELEASE</version>
         </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
+            <version>2.2.6.RELEASE</version>
         </dependency>
 
         <dependency>
@@ -57,6 +58,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.module</groupId>
             <artifactId>jackson-module-jaxb-annotations</artifactId>
+            <version>2.11.0.rc1</version>
         </dependency>
 
         <dependency>
@@ -91,6 +93,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
+            <version>2.2.6.RELEASE</version>
         </dependency>
 
         <dependency>

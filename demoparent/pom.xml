@@ -15,7 +15,7 @@
         <module>springbootService2</module>
         <module>springbootService</module>
         <module>springbootConsumerFeign</module>
-        <module>SpringBootConsumerRibbon</module>
+        <module>springBootConsumerRibbon</module>
         <module>springbootZuul</module>
     </modules>
 

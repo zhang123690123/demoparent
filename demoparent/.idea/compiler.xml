@@ -9,9 +9,11 @@
         <module name="springbootConfig" />
         <module name="springbootConsumerFeign" />
         <module name="SpringBootConsumerRibbon" />
+        <module name="springbootConsumerRibbon" />
         <module name="springbootEureka" />
         <module name="springbootService" />
         <module name="springbootService (1)" />
+        <module name="springbootService2" />
         <module name="springbootZuul" />
       </profile>
     </annotationProcessing>
