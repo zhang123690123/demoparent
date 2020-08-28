@@ -16,7 +16,7 @@ echo '----rm container----'
 docker rmi springbootservice2:1.0-SNAPSHOT
 echo '----rm image----      ${group_name}/${app_name}:${app_version}    '
 # 打包编译docker镜像
-docker build -t springbootservice2:1.0-SNAPSHOT . echo '----build image----'
+docker build -t springbootservice2:1.0-SNAPSHOT . \r\n echo '----build image----'
 docker run -p 8082:8082 --name springbootservice2
 -d springbootservice2:1.0-SNAPSHOT
 echo '----start container-----'
