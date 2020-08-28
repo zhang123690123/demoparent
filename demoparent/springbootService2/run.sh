@@ -1,7 +1,5 @@
 #!/bin/bash
-
 set fileformat=unix
-
 # 定义应用组名
 group_name='springbootservice2'
 # 定义应用名称
