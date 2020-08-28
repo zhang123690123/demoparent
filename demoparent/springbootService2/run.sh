@@ -21,3 +21,4 @@ echo '----build image----'
 docker run -p 8082:8082 --name springbootservice2
 -d springbootservice2:1.0-SNAPSHOT
 echo '----start container-----'
+
