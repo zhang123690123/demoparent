@@ -12,12 +12,12 @@ docker stop ${app_name}
 echo '----stop container----'
 docker rm ${app_name}
 echo '----rm container----'
-docker rmi ${group_name}/${app_name}:${app_version}
+docker rmi ${app_name}:${app_version}
 echo '----rm image----      ${group_name}/${app_name}:${app_version}    '
 # 打包编译docker镜像
 docker build -t ${app_name}:${app_version} .
 echo '----build image----'
-docker run -p 8088:8088 --name ${app_name} \
+docker run -p 8082:8082 --name ${app_name} \
 -e 'spring.profiles.active'=${profile_active} \
 -e TZ="Asia/Shanghai" \
 -v /etc/localtime:/etc/localtime \

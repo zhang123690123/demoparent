@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54290d6f-662f-4b1a-9387-0bb5e2e3a3b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springbootService2/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/springbootService2/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,13 +110,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Dockerfile" value="10" />
-          <entry key="sh" value="14" />
+          <entry key="sh" value="17" />
           <entry key="xml" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Bash" value="14" />
+          <entry key="Bash" value="17" />
           <entry key="Dockerfile" value="10" />
           <entry key="XML" value="68" />
         </counts>
@@ -127,20 +125,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            <state relative-caret-position="75">
+              <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springbootService2/run.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="373">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -212,8 +210,8 @@
         <option value="$PROJECT_DIR$/springbootEureka/pom.xml" />
         <option value="$PROJECT_DIR$/springbootService2/src/run.sh" />
         <option value="$PROJECT_DIR$/springbootService2/pom.xml" />
-        <option value="$PROJECT_DIR$/springbootService2/run.sh" />
         <option value="$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile" />
+        <option value="$PROJECT_DIR$/springbootService2/run.sh" />
       </list>
     </option>
   </component>
@@ -390,7 +388,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/androidSdkLocation" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598577137883" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598578374841" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -523,7 +521,7 @@
       <workItem from="1598510724814" duration="2559000" />
       <workItem from="1598513522881" duration="608000" />
       <workItem from="1598514176901" duration="6328000" />
-      <workItem from="1598576360492" duration="686000" />
+      <workItem from="1598576360492" duration="1898000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/zhang123690123/demoparent&#10;                                       &#10;                                       # Conflicts:&#10;                                       #&#9;demoparent/springbootEureka/pom.xml">
       <created>1598515140488</created>
@@ -560,7 +558,21 @@
       <option name="project" value="LOCAL" />
       <updated>1598526178534</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge branch 'master' of https://github.com/zhang123690123/demoparent&#10;                                       &#10;                                       # Conflicts:&#10;                                       #&#9;demoparent/springbootEureka/pom.xml">
+      <created>1598577157385</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1598577157385</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge branch 'master' of https://github.com/zhang123690123/demoparent&#10;                                       &#10;                                       # Conflicts:&#10;                                       #&#9;demoparent/springbootEureka/pom.xml">
+      <created>1598577532608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598577532608</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -569,7 +581,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29117000" />
+    <option name="totallyTimeSpent" value="30329000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -939,17 +951,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbootService2/run.sh">
+    <entry file="file://$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="75">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springbootService2/src/main/docker/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/springbootService2/run.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="373">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
         </state>
       </provider>
     </entry>
