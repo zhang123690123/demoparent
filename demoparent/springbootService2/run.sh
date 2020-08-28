@@ -13,7 +13,7 @@ echo '----stop container----'
 docker rm ${app_name}
 echo '----rm container----'
 docker rmi ${group_name}/${app_name}:${app_version}
-echo '----rm image----'
+echo '----rm image----      ${group_name}/${app_name}:${app_version}    '
 # 打包编译docker镜像
 docker build -t ${group_name}/${app_name}:${app_version} .
 echo '----build image----'

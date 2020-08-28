@@ -55,5 +55,13 @@ r
 BspringbootZuul/src/main/java/sun/controller/ServiceController.java,0\a\0ae56441213e70d406c07f2c66dfca27eb2aa464
 ]
 -springbootService2/src/main/docker/Dockerfile,f\2\f239bbc8f1446bd4d7846737a61ceee5b6a078de
-M
-springbootService2/src/run.sh,3\7\37de17fd42687637b4e96f3cfc0286a40f605bb2
+l
+<springbootService2/src/main/java/sun/entity/ServiceInfo.java,c\d\cdf65167d127176bfdd7d115f4ca7ac14290109c
+k
+;springbootService/src/main/java/common/utils/CommUtils.java,9\e\9e000c10d58ef0e9ce9b487fce731e778a94d159
+l
+<springbootService2/src/main/java/common/utils/CommUtils.java,3\1\31dd3632ec8b08986cab86ee00c9bf889de8987b
+v
+FspringbootService2/src/main/java/sun/controller/ServiceController.java,1\4\140c6b12e4b5a095dd7567ad17c49eae88deba83
+I
+springbootService2/run.sh,4\d\4d85ce86bc9b673cb7306e4fb6bf51fda8c76203
