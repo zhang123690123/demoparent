@@ -112,13 +112,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Dockerfile" value="27" />
-          <entry key="sh" value="434" />
+          <entry key="sh" value="444" />
           <entry key="xml" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Bash" value="434" />
+          <entry key="Bash" value="444" />
           <entry key="Dockerfile" value="27" />
           <entry key="XML" value="68" />
         </counts>
@@ -148,7 +148,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/springbootService2/run.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
+            <state relative-caret-position="525">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
@@ -422,7 +422,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/androidSdkLocation" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598598534140" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598599725082" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -555,7 +555,7 @@
       <workItem from="1598510724814" duration="2559000" />
       <workItem from="1598513522881" duration="608000" />
       <workItem from="1598514176901" duration="6328000" />
-      <workItem from="1598576360492" duration="14026000" />
+      <workItem from="1598576360492" duration="15220000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/zhang123690123/demoparent&#10;                                       &#10;                                       # Conflicts:&#10;                                       #&#9;demoparent/springbootEureka/pom.xml">
       <created>1598515140488</created>
@@ -732,7 +732,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598598363723</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Merge branch 'master' of https://github.com/zhang123690123/demoparent&#10;                                       &#10;                                       # Conflicts:&#10;                                       #&#9;demoparent/springbootEureka/pom.xml">
+      <created>1598598556409</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1598598556409</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -741,7 +748,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42457000" />
+    <option name="totallyTimeSpent" value="43651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1124,7 +1131,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springbootService2/run.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
+        <state relative-caret-position="525">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
