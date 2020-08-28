@@ -15,12 +15,12 @@ echo '----rm container----'
 docker rmi ${app_name}:${app_version}
 echo '----rm image----      ${group_name}/${app_name}:${app_version}    '
 # 打包编译docker镜像
-docker build -t ${app_name}:${app_version} .
+docker build -t springbootservice2:1.0-SNAPSHOT .
 echo '----build image----'
-docker run -p 8082:8082 --name ${app_name} \
+docker run -p 8082:8082 --name springbootservice2 \
 -e 'spring.profiles.active'=${profile_active} \
 -e TZ="Asia/Shanghai" \
 -v /etc/localtime:/etc/localtime \
--v /mydata/app/${app_name}/logs:/var/logs \
--d ${app_name}:${app_version}
+-v /mydata/app/springbootservice2/logs:/var/logs \
+-d springbootservice2:1.0-SNAPSHOT
 echo '----start container-----'
