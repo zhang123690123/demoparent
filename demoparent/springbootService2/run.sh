@@ -1,12 +1,12 @@
 #!/bin/bash
 set fileformat=unix
-# 瀹氫箟搴旂敤缁勫悕
+# 定义应用组名
 group_name='springbootservice2'
-# 瀹氫箟搴旂敤鍚嶇О
+# 定义应用名称
 app_name='springbootservice2'
-# 瀹氫箟搴旂敤鐗堟湰
+# 定义应用版本
 app_version='1.0-SNAPSHOT'
-# 瀹氫箟搴旂敤鐜
+# 定义应用环境
 profile_active='qa'
 echo '----copy jar----'
 docker stop ${app_name}
@@ -15,7 +15,7 @@ docker rm ${app_name}
 echo '----rm container----'
 docker rmi springbootservice2:1.0-SNAPSHOT
 echo '----rm image----      ${group_name}/${app_name}:${app_version}    '
-# 鎵撳寘缂栬瘧docker闀滃儚
+# 打包编译docker镜像
 docker build -t springbootservice2:1.0-SNAPSHOT .
 echo '----build image----'
 docker run -p 8082:8082 --name springbootservice2
